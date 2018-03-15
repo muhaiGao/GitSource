@@ -1,2 +1,4 @@
 20180315 learn git
 20180315 21:00
+20180315 21:13 learn git reset command
+
